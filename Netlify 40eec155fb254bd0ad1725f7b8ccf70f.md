@@ -1,6 +1,6 @@
 # Netlify
 
-![Untitled](Netlify%2040eec155fb254bd0ad1725f7b8ccf70f/Untitled.png)
+![Untitled](https://github.com/kihyuni1207/Netlify/assets/127191624/ebfd63ff-f278-4d86-a110-e208dd60a63f)
 
 ## **Netlify 란?**
 
@@ -37,7 +37,7 @@
 - 그다음 왼쪽 메뉴에서 Sites를 선택한 후 Add new site를 선택하여 파일을 업로드한다. 아니면 파일을 드래그 해서 해당 영역에 옮겨주기만 하면 들어간다
 - 프라이빗으로 선택하면 요금이 들어간다 퍼블릭으로 하자
 
-![Untitled](Netlify%2040eec155fb254bd0ad1725f7b8ccf70f/Untitled%201.png)
+![Untitled 1](https://github.com/kihyuni1207/Netlify/assets/127191624/e63ca421-b4d1-4a19-b18e-2f43c0cb0f1c)
 
 - 파일을 이렇게 올리고나면 저런 파일 하나가 들어가는데 저대로 URL을 입력하면 배포한 화면이 나온다 끝!
 
