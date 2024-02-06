@@ -1,6 +1,6 @@
 # Netlify
 
-![Untitled](https://github.com/kihyuni1207/Netlify/assets/127191624/ebfd63ff-f278-4d86-a110-e208dd60a63f)
+![다운로드](https://github.com/kihyuni1207/Netlify/assets/127191624/907df77e-031f-4043-8806-5e0747960e24)
 
 ## **Netlify 란?**
 
